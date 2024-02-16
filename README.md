@@ -1,6 +1,6 @@
 # Análisis de una Base de Datos con SQL 🔍
 
-<img align="center" width="1000" height="600" src="https://miro.medium.com/v2/resize:fit:1200/1*p3cYVYA9Gj8oCEf5tkkuow.png">
+<img align="center" width="1000" height="500" src="https://miro.medium.com/v2/resize:fit:1200/1*p3cYVYA9Gj8oCEf5tkkuow.png">
 
 En este repositorio, encontrarás consultas SQL diseñadas para analizar una base de datos de juegos. Estas consultas abordan diferentes aspectos del mundo de los videojuegos, desde la clasificación por género hasta el conteo de usuarios que han jugado cada juego.
 
